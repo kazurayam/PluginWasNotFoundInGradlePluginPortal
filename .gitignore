@@ -1,0 +1,10 @@
+# emacs
+*~
+
+# gradle
+build/
+
+
+Drivers/
+bin/
+Libs/
